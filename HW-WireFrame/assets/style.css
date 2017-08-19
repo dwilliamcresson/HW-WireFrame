@@ -1,0 +1,71 @@
+/**Style Sheet for day 2 homework
+**/
+
+/*
+css for:
+    Body
+    Header, Nav, Footer
+    Section
+    Aside
+    Article
+    .clear
+    text elements (h#, p, etc(
+        */
+
+/*
+Colors:
+    Background: #777
+    Content: #ebebeb
+
+Width of each section:
+    Body: 960px
+    Section: 495px
+
+Fonts:
+    Font Family: Arial
+    Font Size: 18px
+*/
+
+body {
+    padding: 0px 30px 20px 30px;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 150%;
+    color: #333;
+    background: #777;
+    
+  }
+
+
+.header {
+
+    width: 300px;
+    border: 25px;
+    padding: 25px;
+    margin: 25px;
+    text-align: center;
+
+}
+
+.nav {
+
+    width: 300px;
+    border: 25px;
+    padding: 25px;
+    margin: 25px;
+    text-align: center;
+
+}
+
+.div {
+
+    
+    width: 150px;
+    border: 25px;
+    padding: 25px;
+    margin: 25px;
+    float: right;
+
+
+}
